@@ -23,5 +23,8 @@ npm run dev
 ```
 ## DEMO
 
-https://github.com/user-attachments/assets/e8417081-209d-4581-aae6-e9b72c24fd14
+https://github.com/user-attachments/assets/1fdd94ff-c2a4-45f6-a5ad-a685004aa9e3
+
+
+
 
