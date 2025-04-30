@@ -11,7 +11,7 @@ This is a simple ticket filter application built using React. It allows you to f
 - useState (React hook for state management)
 - bootstrap
 
-##  Getting Started
+
 
 ###  Clone the repository
 
